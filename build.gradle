@@ -5,7 +5,7 @@ plugins {
     id 'org.springframework.boot' version '1.5.2.RELEASE'
 }
 
-group 'com.teamtreehouse'
+group 'com.johndupper'
 version '1.0-SNAPSHOT'
 
 sourceCompatibility = 1.8

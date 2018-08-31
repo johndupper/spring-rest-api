@@ -1,6 +1,6 @@
-package com.teamtreehouse.giflib.data;
+package com.johndupper.giflib.data;
 
-import com.teamtreehouse.giflib.model.Gif;
+import com.johndupper.giflib.model.Gif;
 import org.springframework.stereotype.Component;
 
 import java.time.LocalDate;

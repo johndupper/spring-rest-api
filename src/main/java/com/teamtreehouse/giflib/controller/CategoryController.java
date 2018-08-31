@@ -1,9 +1,9 @@
-package com.teamtreehouse.giflib.controller;
+package com.johndupper.giflib.controller;
 
-import com.teamtreehouse.giflib.data.CategoryRepository;
-import com.teamtreehouse.giflib.data.GifRepository;
-import com.teamtreehouse.giflib.model.Category;
-import com.teamtreehouse.giflib.model.Gif;
+import com.johndupper.giflib.data.CategoryRepository;
+import com.johndupper.giflib.data.GifRepository;
+import com.johndupper.giflib.model.Category;
+import com.johndupper.giflib.model.Gif;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

@@ -1,6 +1,6 @@
-package com.teamtreehouse.giflib.data;
+package com.johndupper.giflib.data;
 
-import com.teamtreehouse.giflib.model.Category;
+import com.johndupper.giflib.model.Category;
 import org.springframework.stereotype.Component;
 
 import java.util.Arrays;
